@@ -8,5 +8,5 @@ def display_board(board)
  #{board[6]} | #{board[7]} | #{board[8]} 
 "
   end
-  board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+  board = ["X", "X", " ", " ", "X", " ", "X", "O", " "]
 display_board(board)
